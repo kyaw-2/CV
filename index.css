@@ -3,11 +3,11 @@ body{
 }
 legend {
     text-align: center;
-    color: blue;
+    color: rgb(207, 55, 9);
 }
 fieldset{
     background-color: aquamarine;
-    color: rgb(221, 35, 221);
+    color: rgb(8, 2, 2);
     width: 80%;
 }
 
@@ -18,7 +18,7 @@ fieldset{
     text-align: center;
 }
 a{
-    color: black;
+    color: rgb(104, 21, 212);
 }
 .container{
     display: flex;
